@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="yurist_SQS.SqsService" CodeBehind="SqsService.svc.cs" %>

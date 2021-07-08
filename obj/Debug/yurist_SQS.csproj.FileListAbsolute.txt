@@ -1,0 +1,7 @@
+C:\project\dotNet\yurist_SQS\bin\yurist_SQS.dll.config
+C:\project\dotNet\yurist_SQS\bin\yurist_SQS.dll
+C:\project\dotNet\yurist_SQS\bin\yurist_SQS.pdb
+C:\project\dotNet\yurist_SQS\obj\Debug\yurist_SQS.csprojAssemblyReference.cache
+C:\project\dotNet\yurist_SQS\obj\Debug\yurist_SQS.csproj.CoreCompileInputs.cache
+C:\project\dotNet\yurist_SQS\obj\Debug\yurist_SQS.dll
+C:\project\dotNet\yurist_SQS\obj\Debug\yurist_SQS.pdb
